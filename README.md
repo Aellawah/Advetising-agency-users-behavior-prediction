@@ -21,10 +21,10 @@ In this project we will be working with an advertising data set, We are trying t
 
 General observations:
 
-* We have noticed that older people tend to click more on our ads than youth
+* I have noticed that older people tend to click more on our ads than youth
 * The more the time people spend on internet the likely they click on our ads
 * The more the person gets old the less income he gets
-* We have fitted our data on a Logistic Regression model and Decision tree classification model
+* I have fitted our data on a Logistic Regression model and Decision tree classification model
 
 Correlated features:
 ![download](https://user-images.githubusercontent.com/67180181/142350354-49239064-3cd0-44f8-8b76-3e4e19a10913.png)
